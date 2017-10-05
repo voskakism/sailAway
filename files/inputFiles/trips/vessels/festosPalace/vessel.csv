@@ -1,0 +1,2 @@
+mmsi,		flag(enum:Flag),	name,			type(enum:VesselType),	length(double:m),	width(double:m),	lightshipWeight(double:kg),	maximumSpeed(double:m/s),	minimumSpeed(double:m/s),	acceleration(double:coeff),	deceleration(double:m/s^2)
+237611000,	GR,					Festos Palace,	PASSENGER,				214,				29.4,				13732000,					18,							1.5,						0.65,						0.04

@@ -1,0 +1,2 @@
+mmsi,		flag(enum:Flag),	name,			type(enum:VesselType),	length(double:m),	width(double:m),	lightshipWeight(double:kg),	maximumSpeed(double:m/s),	minimumSpeed(double:m/s),	acceleration(double:coeff),	deceleration(double:m/s^2)
+241087000,	GR,					Blue Star Delos,PASSENGER,				146,				23,					6937500,					16,							2.5,						0.75,						0.05

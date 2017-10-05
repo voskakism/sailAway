@@ -1,0 +1,5 @@
+enum TurnDirection
+{
+	LEFT,
+	RIGHT
+}

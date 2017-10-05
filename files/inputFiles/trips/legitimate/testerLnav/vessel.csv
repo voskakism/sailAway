@@ -1,0 +1,2 @@
+mmsi,		flag(enum:Flag),	name,				type(enum:VesselType),	length(double:m),	width(double:m),	lightshipWeight(double:kg),	maximumSpeed(double:m/s),	minimumSpeed(double:m/s),	acceleration(double:coeff),	deceleration(double:m/s^2)
+241159000,	GR,					Blue Star Patmos,	PASSENGER,				146,				23,					6937500,					46,							2.5,						2.75,						0.05
