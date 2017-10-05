@@ -1,0 +1,51 @@
+import java.util.Date;
+import java.text.SimpleDateFormat;
+
+class AISBroadcast
+{
+	Date timeStamp;
+	private Vessel vessel;
+	private Coordinates position;
+	private Azimuth heading;
+	private double speed;
+	//private Rate of Turn; Should probably add this
+	
+	AISBroadcast(long t, Vessel vessel, Coordinates position, Azimuth heading, double speed)
+	{
+		timeStamp = new Date(t);
+		this.vessel = vessel;
+		this.position = position;
+		this.heading = heading;
+		this.speed = speed;
+	}
+	
+	public Date getTimeStamp() {return timeStamp;}
+	public Vessel getVessel() {return vessel;}
+	public Coordinates getPosition() {return position;}
+	public Azimuth getHeading() {return heading;}
+	public double getSpeed() {return speed;}
+	
+	public void toConsole()
+	{
+		
+		SimpleDateFormat sdf = new SimpleDateFormat("EE d MMM yyyy HH:mm:ss");
+		String formattedDate = sdf.format(timeStamp);
+	
+		String name = vessel.getName();
+		double x = position.getLongitude();
+		double y = position.getLatitude();
+		double hdg = heading.getAzimuth();
+		System.out.print(formattedDate);
+		System.out.print("   ");
+		System.out.printf("Vessel: %-24s", name);
+		System.out.format("LON: %8.2f", x);
+		System.out.print("   ");
+		System.out.format("LAT: %8.2f", y);
+		System.out.print("\t");
+		System.out.print("\t");
+		System.out.format("HDG: %8.2f", hdg);
+		System.out.print("   ");
+		System.out.format("SPD: %8.2f", speed);
+		System.out.println();
+	}
+}

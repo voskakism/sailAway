@@ -1,0 +1,280 @@
+//import java.util.List;
+import java.util.LinkedList;
+import java.util.ListIterator;
+import java.util.Random;
+
+class Lnav
+{
+	//private boolean underWay = true;
+	private final int BROADCAST_INTERVAL = 2000; //milliseconds
+	
+	//Vessel Info
+	private Vessel vessel;
+	/*private long mmsi;
+	private String flag;
+	private String name;
+	private String type;
+	private double length;
+	private double width;
+	private double draught;
+	private double maxSpeed;
+	private double minSpeed;
+	private double acceleration;
+	private double deceleration;*/
+	
+	//Trip Info
+	private Azimuth heading;
+	private double speed;
+	private double maxSpeed;
+	private double minSpeed;
+	private double laneWidth;
+	//private double colliderRadius;
+	private double turbulence;
+	
+	
+	//Route Waypoints
+	LinkedList<Waypoint> waypoints;
+	
+	//Route Legs
+	LinkedList<Leg> legs;
+	
+	Lnav(Vessel vessel, TripParameters parameters, Itinerary route)
+	{
+		//Set Vessel Info
+		this.vessel = vessel;
+		/*mmsi = vessel.getMmsi();
+		flag = vessel.getFlag();
+		name = vessel.getName();
+		type = vessel.getType();
+		length = vessel.getLength();
+		width = vessel.getWidth();
+		draught = vessel.getDraught();
+		maxSpeed = vessel.getMaximumSpeed();
+		minSpeed = vessel.getMinimumSafeSpeed();
+		acceleration = vessel.getAcceleration();
+		deceleration = vessel.getDeceleration();*/
+		
+		
+		//Set Trip Info
+		heading = parameters.getInitialHeading();
+		speed = parameters.getInitialSpeed();
+		laneWidth = parameters.getLaneWidth();
+		//colliderRadius = parameters.getColliderRadius();
+		turbulence = parameters.getTurbulence();
+
+		//Set Route
+		waypoints = route.getItinerary();
+		
+		//Initialize Legs
+		legs = new LinkedList<Leg>();
+	}
+	
+	public void go()
+	{
+		getLegs();
+		//presentWaypoints();////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+		presentLegs();/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+		//Calculate speed limits for turns
+		firstPass();
+		//secondPass();
+		
+		
+		ListIterator<Waypoint> iterator = waypoints.listIterator();
+		Coordinates position = iterator.next();
+		Azimuth bearing;
+		Waypoint nextWaypoint;
+		double step, distanceToWaypoint, cap, legLength, waveHit;
+		Random random = new Random(System.currentTimeMillis());
+		while(iterator.hasNext()){
+			nextWaypoint = iterator.next();
+			System.out.println("Next waypoint is: (" + nextWaypoint.getLongitude() + ", " + nextWaypoint.getLatitude() + ")");//////////////////////////////////////////////////////////////
+			bearing = Coordinates.calculateBearing(position, nextWaypoint);
+			legLength = determineLegLength(iterator, nextWaypoint);
+			System.out.println("LEG LENGTH: " + legLength);//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+			cap = determineSpeedCap(iterator, nextWaypoint, bearing);
+			System.out.println("CAP: " + cap);///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+			do{
+				distanceToWaypoint = Coordinates.calculateDistance(position, nextWaypoint);
+				System.out.println("DISTANCE TO WAYPOINT: " + distanceToWaypoint);///////////////////////////////////////////////////////////////////////////////////////////////////////////
+				//speed = 0.2;///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+				determineSpeed(cap, distanceToWaypoint, legLength);
+				
+				
+				// calculate a slightly randomized heading, take turbulence into account...
+				waveHit = (random.nextInt(41) - 20) * turbulence;
+				if(waveHit < 0){
+					heading.rotateCounterClockwise(Math.abs(waveHit));
+				} else{
+					heading.rotateClockwise(waveHit);
+				}
+				
+				//heading = bearing; ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+				step = speed * BROADCAST_INTERVAL / 1000;
+				
+				position.move(heading, step);
+				bearing = Coordinates.calculateBearing(position, nextWaypoint);
+				heading.turnTo(bearing, 0.8);
+				AISBroadcast ais = new AISBroadcast(System.currentTimeMillis(), this.vessel, position, heading, speed);
+				ais.toConsole();
+				//don't forget to send to Esper
+				
+				try{
+					Thread.sleep(BROADCAST_INTERVAL);
+				} catch(InterruptedException ie){
+					ie.printStackTrace();
+				}
+			}while(distanceToWaypoint > colliderRadius);
+			System.out.println("Reached waypoint: (" + nextWaypoint.getLongitude() + ", " + nextWaypoint.getLatitude() + ")");
+		}
+		System.out.println("Reached destination.");
+	}
+	
+	private void firstPass()
+	{
+		ListIterator<Leg> legIterator = legs.listIterator();
+		Leg currentLeg;
+		Leg nextLeg;
+		double maximumEntrySpeed;
+		
+		// First Pass
+		currentLeg = legIterator.next();
+		while(legIterator.hasNext()){
+			nextLeg = legIterator.next();
+			Azimuth currentCourse = currentLeg.getCourse();
+			Azimuth nextCourse = nextLeg.getCourse();
+			
+			Azimuth relBearing = Azimuth.calculateRelativeBearing(currentCourse, nextCourse);
+			double turn = relBearing.getAzimuth();
+			if(turn > 180){
+				turn = 360 - turn;
+			}
+			System.out.println("Next turn is angled: " + turn);//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+			double speedCap = maxSpeed * (1 - (turn / 180));
+			if(speedCap < minSpeed){
+				speedCap = minSpeed;
+			}
+			currentLeg.getDestination().setSpeedCap(speedCap);
+			currentLeg = nextLeg;
+		}
+		currentLeg.getDestination().setSpeedCap(minSpeed / 4);
+		presentLegs();
+		
+		// Second Pass
+		do{
+			maximumEntrySpeed = currentLeg.getMaximumEntrySpeed();
+			if(maximumEntrySpeed < currentLeg.getOrigin().getSpeedCap()){
+				currentLeg.getOrigin().setSpeedCap(maximumEntrySpeed);
+			}
+			currentLeg = legIterator.previous();
+		} while(legIterator.hasPrevious());
+		presentLegs();
+	}
+	
+	private void getLegs()
+	{
+		ListIterator<Waypoint> waypointIterator = waypoints.listIterator();
+		Waypoint origin = waypointIterator.next();
+		Waypoint destination;
+		while(waypointIterator.hasNext()){
+			destination = waypointIterator.next();
+			legs.add(new Leg(origin, destination));
+			origin = destination;
+		}
+	}
+	
+	/*private void presentWaypoints()
+	{
+		Waypoint w;
+		ListIterator<Waypoint> li = waypoints.listIterator();
+		while(li.hasNext()){
+			w = li.next();
+			System.out.println("LON: " + w.getLongitude() + " LAT: " + w.getLatitude());
+		}
+	}*/
+	
+	private void presentLegs()
+	{
+		Leg l;
+		ListIterator<Leg> li = legs.listIterator();
+		while(li.hasNext()){
+			l = li.next();
+			System.out.println("LEG:");
+			System.out.println("ORIGIN:");
+			System.out.println("LON: " + l.getOrigin().getLongitude() + " LAT: " + l.getOrigin().getLatitude());
+			System.out.println("DESTINATION:");
+			System.out.println("LON: " + l.getDestination().getLongitude() + " LAT: " + l.getDestination().getLatitude() + " CAP: " + l.getDestination().getSpeedCap());
+			System.out.println();
+		}
+	}
+	
+	/*private void secondPass()
+	{
+		
+	}*/
+	
+	private double determineSpeedCap(ListIterator<Waypoint> iterator, Waypoint nextWaypoint, Azimuth currentBearing)
+	{
+		double speedCap;
+		if(iterator.hasNext()){
+			Waypoint waypointAfterTheNext = iterator.next();
+			System.out.println("Upcoming waypoint beyond the next: LON " + waypointAfterTheNext.getLongitude() + " LAT " + waypointAfterTheNext.getLatitude());/////////////////////////////
+			Azimuth nextBearing = Coordinates.calculateBearing(nextWaypoint, waypointAfterTheNext);
+			double turn = Math.abs(nextBearing.getAzimuth() - currentBearing.getAzimuth());
+			if(turn > 180){
+				turn = 360 - turn;
+			}
+			System.out.println("Next turn is angled: " + turn);//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+			speedCap = maxSpeed * (1 - (turn / 180));
+			if(speedCap < minSpeed){
+				speedCap = minSpeed;
+			}
+			iterator.previous(); //to reset the cursor position to the nextWaypoint
+			return speedCap;
+		} else{
+			System.out.println("No waypoints beyond the next.");/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+			speedCap = minSpeed * 1 / 3;
+			return speedCap;
+		}
+	}
+	
+	private void determineSpeed(double cap, double distanceToWaypoint, double legLength)
+	{
+		double threshold = legLength * (1 - (cap / maxSpeed)) * 1.25;
+		if(distanceToWaypoint < threshold){//if in braking radius
+			System.out.println("IN BRAKING RADIUS");/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+			convergeSpeedTo(cap, 0.06, 0.095);
+		} else{
+			convergeSpeedTo(maxSpeed, 0.06, 0.095);
+		}
+	}
+	
+	private double determineLegLength(ListIterator<Waypoint> iterator, Waypoint endOfLeg)
+	{
+		// ListIterator.next() returns the element pointed by the cursor and then advances the cursor
+		// ListIterator.previous() recedes the cursor and then returns the element pointed at by the cursor
+		iterator.previous();
+		Waypoint startOfLeg = iterator.previous();
+		iterator.next();
+		iterator.next();
+		
+		System.out.println("startOfleg " + startOfLeg.getLongitude() + " " + startOfLeg.getLatitude());/////////////////////////////////////////////////////////////////////////////////////
+		System.out.println("endOfleg " + endOfLeg.getLongitude() + " " + endOfLeg.getLatitude());///////////////////////////////////////////////////////////////////////////////////////////
+		return (Coordinates.calculateDistance(startOfLeg, endOfLeg));
+		
+	}
+	
+	private void convergeSpeedTo(double target, double acceleration, double decceleration)
+	{
+		double diff = target - speed;
+		if(diff > 0){
+			speed += (diff) * acceleration;
+		} else{
+			speed += (diff) * decceleration;
+		}
+	}
+	
+	/*public void endTrip()
+	{
+		underWay = false;
+	}*/
+}

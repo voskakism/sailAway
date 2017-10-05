@@ -1,0 +1,138 @@
+import java.util.Random;
+import java.util.List;
+import java.util.LinkedList;
+import java.util.ListIterator;
+import java.io.File;
+
+public class Application //more like Trip
+{
+	private static final double DEFAULT_COURSE = 180.0;
+	private static final double	INITIAL_HEADING = 90.0;
+	//private static final double	INITIAL_SPEED = 0.0;
+	//private static final double	INITIAL_LONGTITUDE = 0.0;
+	//private static final double	INITIAL_LATITUDE = 0.0;
+	
+	private static double course;
+	private static double initialHeading;
+	//private static double speed;
+	//private static double longtitude;
+	//private static double latitude;
+	
+	//private static File f = new File("legs.csv");
+	private static List<Coordinates> route = new LinkedList<Coordinates>();
+	
+	public static void main(String[] args)
+	{
+		CSVLegsFile legs = new CSVLegsFile("legs.csv");
+		if(legs.exists())
+		{
+			System.out.println("found");
+			route = legs.getLegs(true);
+			ListIterator<Coordinates> iterator = route.listIterator();
+			while(iterator.hasNext()){
+				Coordinates pair = iterator.next();
+				System.out.println(pair.getLongtitude() + " , " + pair.getLongtitude());
+			}
+		} else{
+			System.out.println("file not found");
+		}
+		Random random = new Random(System.currentTimeMillis());
+		double heading = 0;
+		setArgs(args);
+		System.out.println("Course: " + course + " degrees.");
+		System.out.println("Initial heading: " + initialHeading + " degrees.");
+		
+		heading = initialHeading;
+		for(int i=0; i<80; i++){
+			try{
+				Thread.sleep(1000);
+			} catch(InterruptedException ie){
+				ie.printStackTrace();
+			}
+			//heading = (0.95) * heading + (0.05) * ((double)random.nextInt(3600) / 10); //convergence to 180 deg, due to uniformity
+			heading = (0.95) * heading + (0.05) * (Math.round(heading - 15) + random.nextInt(30)); //dependent and convergent to the previous reading
+			heading = heading + (0.55) * (course - heading); //HEADING HOLD MODE: attempts to correct the ship's heading, keeping it parallel to selected course. Remember: Course != Track   !!!
+			heading = Math.round(heading * 10);
+			heading = heading / 10;
+			System.out.println(heading);
+		}
+	}
+	
+	private static void setArgs(String[] args)
+	{
+		int errCount = 0;
+		if(args.length == 0){
+			System.out.println("No input arguments detected.");
+			setDefaults(true, true);
+		} else if(args.length == 1){
+			try{
+				if(Double.parseDouble(args[0]) > 360.0 || Double.parseDouble(args[0]) < 0){
+					badInput(++errCount);
+				} else{
+				course = Double.parseDouble(args[0]);
+				}
+			} catch(NumberFormatException nfe){
+				System.out.println("Warning: " + args[0] + " is not an arithmetic input.");
+				badInput(++errCount);
+			}
+			setDefaults(false, true);
+		} else if(args.length >= 2){
+			try{
+				if(Double.parseDouble(args[0]) > 360.0 || Double.parseDouble(args[0]) < 0){
+					errCount++;
+				} else{
+					course = Double.parseDouble(args[0]);
+				}
+			} catch(Exception ex){
+				System.out.println("Warning: " + args[0] + " is not an arithmetic input.");
+				errCount++;
+			}
+			try{
+				if(Double.parseDouble(args[1]) > 360.0 || Double.parseDouble(args[1]) < 0){
+					errCount += 10;
+				} else{
+					initialHeading = Double.parseDouble(args[1]);
+				}
+			} catch(Exception ex){
+				System.out.println("Warning: " + args[1] + " is not an arithmetic input.");
+				errCount += 10;
+			}
+			if(errCount > 0){
+				badInput(errCount);
+			}
+			if(args.length > 2){
+				System.out.println("Please note that the maximum number of the application's input arguments is 2:");
+				System.out.println("  '--> 1st: Course, in degrees azimuth.");
+				System.out.println("  '--> 2nd: Initial heading, in degrees azimuth.");
+			}
+		}
+	}
+	
+	private static void badInput(int errCount)
+	{
+		if(errCount == 1){
+			System.out.println("Incorrect azimuth value for course.");
+			setDefaults(true, false);
+		} else if(errCount == 10){
+			System.out.println("Incorrect azimuth value for initial heading");
+			setDefaults(false, true);
+		} else{
+			System.out.println("Incorrect azimuth values for course and initial heading.");
+			setDefaults(true, true);
+		}
+	}
+	
+	private static void setDefaults(boolean def_course, boolean def_heading)
+	{
+		if(def_course){
+			System.out.println("Using default value for course.");
+			course = DEFAULT_COURSE;
+		}
+		if(def_heading){
+			System.out.println("Using default value for initial heading.");
+			initialHeading = INITIAL_HEADING;
+		}
+	}
+}
+
+//class TripParameterUserInput{}
