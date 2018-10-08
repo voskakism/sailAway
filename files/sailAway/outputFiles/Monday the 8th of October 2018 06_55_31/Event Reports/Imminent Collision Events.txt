@@ -1,0 +1,48 @@
+EVENT: Ιmminent Collision of vessels. Alert received at Mon Oct 08 07:01:07 EEST 2018
+At 07:01:07, vessel of:
+	MMSI: 367759000
+	Name: MaerskMontana
+	Reported:
+	Position: LON: 66742.98428707231 LAT: 47307.346093456305
+	Heading: 235.86143645306578 degrees.
+	Speed: 12.999900022955005 m/s.
+At 07:01:07, vessel of:
+	MMSI: 240348000
+	Name: SantoriniPalace
+	Reported:
+	Position: LON: 66593.82769897503 LAT: 47197.044581531336
+	Heading: 55.9368429710591 degrees.
+	Speed: 21.999999999557396 m/s.
+
+EVENT: Ιmminent Collision of vessels. Alert received at Mon Oct 08 07:01:09 EEST 2018
+At 07:01:09, vessel of:
+	MMSI: 367759000
+	Name: MaerskMontana
+	Reported:
+	Position: LON: 66721.46469969484 LAT: 47292.755104403775
+	Heading: 235.86141351918917 degrees.
+	Speed: 12.999906790631897 m/s.
+At 07:01:09, vessel of:
+	MMSI: 240348000
+	Name: SantoriniPalace
+	Reported:
+	Position: LON: 66630.2782085308 LAT: 47221.68926357527
+	Heading: 55.93688398467162 degrees.
+	Speed: 21.99999999961775 m/s.
+
+EVENT: Ιmminent Collision of vessels. Alert received at Mon Oct 08 07:01:11 EEST 2018
+At 07:01:11, vessel of:
+	MMSI: 367759000
+	Name: MaerskMontana
+	Reported:
+	Position: LON: 66699.94510695476 LAT: 47278.16409914157
+	Heading: 235.86141236838262 degrees.
+	Speed: 12.999913100189122 m/s.
+At 07:01:11, vessel of:
+	MMSI: 240348000
+	Name: SantoriniPalace
+	Reported:
+	Position: LON: 66666.72873572788 LAT: 47246.33391952716
+	Heading: 55.93688605777716 degrees.
+	Speed: 21.999999999669875 m/s.
+

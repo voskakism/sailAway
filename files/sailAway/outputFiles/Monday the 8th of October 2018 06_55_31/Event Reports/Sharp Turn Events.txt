@@ -1,0 +1,8 @@
+EVENT: Sharp turn taken. 
+	Vessel:
+		MMSI: 319068600
+		Name: Maryah
+	Rotation: 90.0 degrees.
+	Time Taken: 2.011 seconds.
+	Rate of Turn: 44.75385380407757 degrees per second.
+

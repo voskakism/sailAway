@@ -1,0 +1,15 @@
+EVENT: Package Delivery: Vessel FestosPalace discarded a package, subsequently collected by vessel KnossosPalace,
+128.674 seconds later, 10.0 meters away.
+	Dispense details:
+		Vessel:
+			MMSI: 237611000
+			Name: FestosPalace
+		Time: Mon Oct 08 06:59:06 EEST 2018
+		Location: LON: 68500.0 LAT: 42270.0
+	Recovery details:
+		Vessel:
+			MMSI: 237641000
+			Name: KnossosPalace
+		Time: Mon Oct 08 07:01:15 EEST 2018
+		Location: LON: 68510.0 LAT: 42270.0
+

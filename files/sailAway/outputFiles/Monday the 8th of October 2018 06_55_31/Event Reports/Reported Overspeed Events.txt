@@ -1,0 +1,6952 @@
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 15.191208397678016 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 16.119679979812833 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 15.249242561677095 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 16.92154180074745 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 17.61405882791825 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 15.475811171342412 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 15.673059137403982 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 18.212141715020305 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 15.844780896092878 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 18.728667844790262 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 15.994279838951448 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 19.174758593227953 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.124431859793024 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 19.560018785060503 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 19.892743496188615 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.237740677937456 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.33638600196908 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 20.180096655799257 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.422265460537787 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 20.428265293644813 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.497031106821133 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 20.64259275360234 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.562121198879574 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 20.827693741747474 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.618787867259865 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 20.987553686054635 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.668121202085057 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.125614547047185 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.711070222991697 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.244848926995296 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.34782407331412 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.748461135310418 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.78101322368201 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.43675715422583 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.809352688852574 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.5135629968314 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.834024693824592 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.5798953154453 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.85550385109435 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.637182317884577 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.68665745635486 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.874203352717434 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.729385985033744 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.890482918836355 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.766287896165505 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.904655717575178 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.798157728506574 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.91699438941839 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.825681674619315 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.927736291964248 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.849452355353044 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.937088065945346 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.94522961035242 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.869981579623083 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.887711364219935 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.95231754313034 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.958488214019358 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.903023450917217 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.91624752579214 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.963860327499205 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.927668317729577 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.968537226293424 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.937531728948272 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.972608879361335 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.946050129546236 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.976153612620458 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.95340693006266 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.979239615693103 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.95976053050866 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.98192625366223 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.98426520907065 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.965247730893843 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.969986676681046 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.986301476132095 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.974079402588178 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.988074226279707 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.977614029507972 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.98961756170233 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.980666661847795 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.990961171364383 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.98330302614128 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99213090212899 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.98557988621292 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.993149255971122 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.987546265365705 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.994035822845447 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.989244501906747 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.994807657536036 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.995479607737256 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.990711160737646 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.991977820637057 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99606459967714 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.996573886777746 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99307175418655 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99701726613592 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.994016514979293 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99740326698892 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.994832444754845 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99773931479035 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.995537111379186 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.998031874052778 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.996145687100206 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99828657270477 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.996671275222905 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.997125192237963 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99850831035474 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99751721147824 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.998701352544128 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.998869412803124 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99785577354939 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999015724087425 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99814816806538 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99914310097023 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99840069060192 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999253993785846 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.998618778247113 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999350535766503 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.998807126667963 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999434584079072 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99896979121324 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999507755551193 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99911027422962 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99957145777398 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999231600471035 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999336382224985 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.9996269161797 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99942687555794 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999675197615268 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999505028890948 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999717230865055 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999572524951272 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999753824517814 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99963081700337 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99978568252139 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999813417724507 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999681160139275 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99983756366604 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.9997246383021 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99985858483867 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99976218762454 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999876885624253 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99979461658483 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99989281807288 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999822623414172 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999906688675214 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99984681113042 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999867700521726 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99991876425842 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999885741359673 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999929277119097 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999901322083353 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99993842949192 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999914778162896 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999946397440024 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.9999263993225 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.9999533342419 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999936435778523 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99995937334001 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999945103626906 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999964630907773 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999952589495965 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999969208084412 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999959054564698 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999973192920546 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99996463803315 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999976662072005 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999969460119537 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99997968227445 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999973624648693 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999982311627168 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99997722128751 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99998460071071 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999980327475576 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999986593559914 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999983010092542 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999988328510984 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999985326898106 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999989838938973 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999987327775635 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999115389981 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999989055806232 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999992298689246 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999054819629 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999329532946 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999991837078614 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999994162992706 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999295020426 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999491837012 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999391154004 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999557599281 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999994741784583 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999996148511386 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999996646939323 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999545881396 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999997080864823 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.9999960780666 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.9999966128757 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999997458635256 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999997074756287 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999997787517753 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999998073838984 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999997473653156 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999832310688 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999997818155 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999854011658 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999811567932 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999872904267 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999998372632138 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.9999988935195 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999998594545936 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999036711095 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999998786198763 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999161372013 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999998951717114 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999269900343 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999909466478 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999936438383 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999218119584 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999944664004 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999932473964 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999951825133 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.9999994168206 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999580595276 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999496345065 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999565025284 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999963487118 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999624340017 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999682123146 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999972326015 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999967556638 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999719807327 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999759073543 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999975801542 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999979025226 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999791013316 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999817396088 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.9999998195115 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999841027183 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999984412357 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999861600134 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999879510707 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999865379444 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999988373679 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999989510344 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999908678287 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999899590865 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999991328302 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999920496393 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999925108064 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999930785094 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999935320602 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999939742317 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999994414052 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999994754037 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999951757722 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999954329265 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999958336215 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999960239595 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999996401764 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999965385058 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999968924325 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999996986464 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999997376451 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999973161916 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999977159693 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999976821655 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999980115497 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999979982338 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999998271202 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999982688784 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999985069472 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999984929058 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999986879416 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999987105454 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999988577375 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999988863802 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.9999999900556 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999990382374 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999134252 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999169387 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.9999999924629 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999992826524 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999343829 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999993804725 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999994287453 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999994649535 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999995026723 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999995379145 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999995670322 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999600926 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999996230635 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999996553452 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999997023437 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999996718437 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999742933 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999714311 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999997779877 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999997512827 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999808262 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999997834696 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999998344084 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999998114912 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999856989 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999998358867 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999998764906 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999998571248 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999893333 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999998756145 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999078785 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999998917115 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999204405 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999057252 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999312895 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999179256 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999940659 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999928547 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999948751 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999937794 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999458442 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999557396 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999528526 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999961775 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999958954 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999669875 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999971489 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999642657 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999975377 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999688903 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999729162 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999787345 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999764213 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999816342 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999794728 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999841386 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999982129 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999863014 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999984442 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999881695 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999864553 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999897828 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999991176 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999882082 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999923794 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999989734 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999934186 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999910624 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999994316 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999922192 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999993226 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999950912 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999941025 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999957605 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999963386 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999948656 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999968377 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.9999999999553 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999961084 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999997269 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999996612 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999976414 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999970505 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999997963 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999997432 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999982407 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999977643 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999984805 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999986876 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999980535 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999988667 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999983054 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999990212 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999985246 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999991548 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999987153 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999988816 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.9999999999927 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999990262 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999993694 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999991523 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999994554 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999995296 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999262 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999999594 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999993577 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999996493 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999994408 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999996973 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999995133 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999997385 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999576 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999999774 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.44733925857398 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999999805 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999998316 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999998547 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999998746 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999998916 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999999066 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999999194 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999999304 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.9999999999994 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999999948 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999999552 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999999613 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999999666 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999999712 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999999975 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999999787 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999999815 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999999984 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999999986 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999999988 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999999897 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999999991 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999999922 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999999932 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999999943 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999999995 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999999957 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999999964 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999999968 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999999997 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999999975 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999999998 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999999982 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.999999999999986 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 15.050478385828262 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 15.302769418250486 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 15.522411022947482 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 15.713628419977807 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 15.880100036215973 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.025028266823316 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.151201079352063 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.261045645553562 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.356675032599572 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.439928851910217 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 21.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.512408647545364 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 240348000
+		Name: SantoriniPalace
+		Flag: GR
+		Type: HIGHSPEED
+	Reported speed: 16.694346432301995 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.575508704921845 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.630442872520195 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.678267912546993 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.719903829746794 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.75615156942662 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.78770842514788 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.815181452481685 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.83909914686641 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.85992161021311 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.87804940183259 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.893831243948373 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.907570730025643 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.919532164963503 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.929945649497636 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.939011506621473 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.94690413517634 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.953775364741755 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.95975737636341 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.964965245304615 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.969499154735782 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.973446322946447 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.976882681153377 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.979874334180586 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.982478832110157 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.98474627736649 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.986720288530826 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.988438839426838 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.989934989618657 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99123752037389 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.992371488325503 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.993358707483377 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99421816886788 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99496640583792 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.995617812141248 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.996184918805323 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.996678635195224 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.997108458875843 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99748265831544 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.997808431945206 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99809204663465 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.998338958246634 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.998553916591188 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.998741056797034 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.998903978858593 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999045816888657 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999169299408948 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999276801838377 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999370392188705 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999451870846638 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99952280520766 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999584559827845 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999638322673654 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99968512797471 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99972587611916 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999761350974328 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999792234965884 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999819122205594 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999842529920166 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999862908401084 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999880649666828 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99989609500406 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999909541532947 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.9999212479228 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999931439368083 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999940311920447 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999948036260154 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999954760979428 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999960615440912 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999965712266206 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999970149502346 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999974012507924 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999977375595133 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999980303459292 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999982852423383 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999985071521532 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999987003442275 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999988685349745 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999990149598602 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999142435643 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999992534145598 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999350031499 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999994341450698 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999995073733547 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999571125038 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999626626504 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999674945427 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999717011313 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999997536333783 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999997855161176 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999998132728553 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999998374375448 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999858475039 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999876790034 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999998927348532 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999906616225 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999918701184 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999292222075 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999383816863 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999946355821 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999953298009 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999959341796 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999964603446 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999691841765 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999731721065 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999766439515 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999979666499 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999822978932 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999984588754 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999865831505 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999883194487 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999898310495 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999911470315 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.9999999229271 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999993290124 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999994158461 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999949144247 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999955725578 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999996145521 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999966443358 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999970785982 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999997456662 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999977858 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999980723434 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999998321805 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999998538983 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999998728056 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999988926607 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999990359633 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999160721 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999992693336 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999993638905 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999994462105 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999995178772 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999995802696 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999996345878 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999996818765 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999997230454 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999997588866 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999997900893 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999817254 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999998409034 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999998614925 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999879417 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999895022 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999908607 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999204345 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999307313 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999396955 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999474998 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999954294 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999960209 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999653582 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999698414 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999737444 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999771422 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999801002 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999826755 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999849177 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999868695 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999885688 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999990048 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999991336 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999924572 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999934335 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999942833 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999995023 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999995667 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999962277 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999996716 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999971408 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999997511 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999978332 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999981135 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999983576 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.9999999999857 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999998755 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999998916 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999990564 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999991786 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999285 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999993776 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999994582 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999995282 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999995893 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999996426 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999996888 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999729 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999764 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999997947 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999998213 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999998444 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999998646 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999882 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999998973 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999999105 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999999222 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999932 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999941 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999999485 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999999552 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999961 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999966 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.9999999999997 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999974 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999999773 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.9999999999998 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999999826 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999999847 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999987 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999999886 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.9999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999999915 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999999925 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999999936 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999999943 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999995 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999999957 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999999964 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999999968 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999997 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999999975 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999998 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999999982 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999999999999986 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99999999999999 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.208581098843737 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 15.153191022484242 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 15.392189831339222 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 15.600259382577676 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 15.7814022860088 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 15.939103166642957 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.076395698018572 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.195920960627934 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.299978248076084 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.39056929832506 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.46943680089476 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.538097920778966 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.597873483972275 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.649913386046453 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.695218712558088 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.734660996815276 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.768998985462712 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.798893234402833 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.824918815833055 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.847576380842895 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.867301790380875 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.884474499860996 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.899424858702513 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.912440465223366 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.923771699135635 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.933636538071024 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.942224750791244 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.949701547747672 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.95621075921562 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.961877602140657 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.966811088922455 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.971106124473668 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.974845331894723 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.97810064188482 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.98093467646443 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.983401953627855 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.985549936099545 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.987419944369016 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.98904795156832 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.990465275483007 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.991699181008737 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.9927734046429 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.993708611100878 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.994522790840765 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.995231606143726 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.995848692407478 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.996385920448862 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.996853624861362 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99726080282048 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99761528716136 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.997923897058126 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.998192569203546 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.9984264720125 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99863010504618 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.998807385569613 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.998961723907662 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999096089049022 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999213065760326 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99931490430899 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999403563751354 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999480749618826 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999547946726977 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99960644773878 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999657378031408 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99970171734499 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999740318629755 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99977392445414 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999803181289487 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999828651946142 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99985082640017 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999870131218973 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999886937767105 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999901569350186 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99991430743428 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999925397060434 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999935051558495 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.999943456650925 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99995077402551 m/s.
+
+EVENT: Reported speed is above the legal limit of 15.0 m/s.
+	Vessel:
+		MMSI: 200000004
+		Name: Barbaros
+		Flag: TR
+		Type: MILITARY
+	Reported speed: 16.99995077402551 m/s.
+

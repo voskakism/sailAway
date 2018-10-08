@@ -1,0 +1,2 @@
+turbulence(double:[0-1]),	centripetalForce(double:Newtons),	guiMode(GuiMode),		trailLength(int:numberOfLastPositions),	laneWidth(int:m),	broadcastInterval(int:milliseconds),	debugStatus(boolean),	immobileSpeedThreshold(double:m/s),	globalSpeedLimit(double:m/s)
+0.3,						4000000,							RESIZABLE_TO_TRAILS,	1200,									300,				2000,									false,					4, 									15

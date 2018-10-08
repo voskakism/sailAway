@@ -1,0 +1,790 @@
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:02:09 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80618.08037364086 LAT: 45579.117041700505
+	Distance from nearest landmass: 1984.9883285172768
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:02:11 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80593.26941654124 LAT: 45555.87018368054
+	Distance from nearest landmass: 1951.006321557066
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:02:13 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80567.40571181863 LAT: 45541.19738792697
+	Distance from nearest landmass: 1922.3426871850133
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:02:15 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80542.79215349417 LAT: 45517.74162644694
+	Distance from nearest landmass: 1888.3525451843427
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:02:17 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80518.18896006298 LAT: 45494.27499326307
+	Distance from nearest landmass: 1854.3620448140919
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:02:19 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80491.27286324391 LAT: 45470.72700348439
+	Distance from nearest landmass: 1818.6785469747672
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:02:21 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80466.36907610776 LAT: 45447.30776537191
+	Distance from nearest landmass: 1784.509008133363
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:02:23 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80444.89453998128 LAT: 45426.71218429351
+	Distance from nearest landmass: 1754.7609429728166
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:02:25 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80426.68258850917 LAT: 45409.24459118402
+	Distance from nearest landmass: 1729.5316950496856
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:02:27 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80412.07270584644 LAT: 45395.23179894887
+	Distance from nearest landmass: 1709.292407533475
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:02:29 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80398.78578524066 LAT: 45382.487898627915
+	Distance from nearest landmass: 1690.8858375362113
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:02:31 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80385.49886468869 LAT: 45369.74399825085
+	Distance from nearest landmass: 1672.479267537472
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:02:33 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80372.37526059762 LAT: 45356.75797126458
+	Distance from nearest landmass: 1654.0169703485012
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:02:35 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80359.08158556267 LAT: 45344.021116918244
+	Distance from nearest landmass: 1635.6106065052152
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:02:37 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80345.78756040196 LAT: 45331.28462801427
+	Distance from nearest landmass: 1617.2042534921013
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:02:39 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80332.4935170622 LAT: 45318.548158085156
+	Distance from nearest landmass: 1598.7979010419292
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:02:41 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80319.19947277714 LAT: 45305.81168914272
+	Distance from nearest landmass: 1580.391548621269
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:02:43 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80305.90542844284 LAT: 45293.075220251674
+	Distance from nearest landmass: 1561.9851962020846
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:02:45 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80292.61138410599 LAT: 45280.33875136331
+	Distance from nearest landmass: 1543.5788437821623
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:02:47 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80279.31733976898 LAT: 45267.60228247509
+	Distance from nearest landmass: 1525.1724913629778
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:02:49 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80266.02329543198 LAT: 45254.865813586875
+	Distance from nearest landmass: 1506.7661389437933
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:02:51 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80257.34341349997 LAT: 45246.14037488344
+	Distance from nearest landmass: 1494.458718694067
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:02:53 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80244.03932365082 LAT: 45233.41439956283
+	Distance from nearest landmass: 1476.0526830974463
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:02:55 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80230.7347043726 LAT: 45220.68897774521
+	Distance from nearest landmass: 1457.6466645240946
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:02:57 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80217.43005709718 LAT: 45207.963585199155
+	Distance from nearest landmass: 1439.240646851597
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:02:59 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80204.12540833624 LAT: 45195.238194206235
+	Distance from nearest landmass: 1420.8346292270564
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:03:01 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80190.78241528559 LAT: 45180.31606494215
+	Distance from nearest landmass: 1400.8481695673981
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:03:03 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80177.4060916689 LAT: 45167.666036441144
+	Distance from nearest landmass: 1382.4447594955172
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:03:05 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80164.02592609319 LAT: 45155.02007171949
+	Distance from nearest landmass: 1364.0415062741013
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:03:07 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80150.64555278436 LAT: 45142.374326795165
+	Distance from nearest landmass: 1345.6382615831337
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:03:09 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80137.84405109493 LAT: 45125.609627774815
+	Distance from nearest landmass: 1324.7318005677455
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:03:11 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80124.24720606339 LAT: 45113.19693025321
+	Distance from nearest landmass: 1306.340276653061
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:03:13 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80110.74697868135 LAT: 45100.67804073841
+	Distance from nearest landmass: 1287.941982654501
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:03:15 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80096.71776487822 LAT: 45088.99699674315
+	Distance from nearest landmass: 1269.7620850192206
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:03:17 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80091.05714631066 LAT: 45070.04322278191
+	Distance from nearest landmass: 1252.3570811472412
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:03:19 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80087.66970119473 LAT: 45051.99852183909
+	Distance from nearest landmass: 1237.2022653336667
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:03:21 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80095.91742120813 LAT: 45035.9389538124
+	Distance from nearest landmass: 1231.6784546298254
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:03:23 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80094.9086870505 LAT: 45016.30848606167
+	Distance from nearest landmass: 1217.0843350022624
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:03:25 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80105.05917423352 LAT: 45001.00967478509
+	Distance from nearest landmass: 1213.443920124286
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:03:27 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80118.76640945133 LAT: 44988.795022959785
+	Distance from nearest landmass: 1214.4993359620457
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:03:29 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80135.12917897146 LAT: 44980.46761098725
+	Distance from nearest landmass: 1220.1811917737207
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:03:31 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80153.0511017515 LAT: 44976.41702604518
+	Distance from nearest landmass: 1229.9897088226837
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:03:33 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80153.0511017515 LAT: 44976.41702604518
+	Distance from nearest landmass: 1229.9897088226837
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:03:35 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80173.24092500498 LAT: 44973.30649072073
+	Distance from nearest landmass: 1242.0665891355839
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:03:37 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80195.16645876301 LAT: 44969.927338184534
+	Distance from nearest landmass: 1255.1808610634498
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:03:39 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80212.59670035992 LAT: 44961.093826196964
+	Distance from nearest landmass: 1261.2596668662304
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:03:41 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80237.3508817025 LAT: 44957.29036467745
+	Distance from nearest landmass: 1276.0740629245086
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:03:43 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80263.2506369534 LAT: 44953.31150030854
+	Distance from nearest landmass: 1291.5744735162157
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:03:45 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80284.64862735115 LAT: 44945.18419547946
+	Distance from nearest landmass: 1300.9582652733773
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:03:47 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80312.41538515112 LAT: 44940.92895144397
+	Distance from nearest landmass: 1317.58341609206
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:03:49 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80340.93810270278 LAT: 44936.558392573
+	Distance from nearest landmass: 1334.6615712755745
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:03:51 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80370.1188860582 LAT: 44932.08702521739
+	Distance from nearest landmass: 1352.13376688779
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:03:53 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80399.8725704714 LAT: 44927.52787371637
+	Distance from nearest landmass: 1369.94899195865
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:03:55 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80430.12501563676 LAT: 44922.89229727005
+	Distance from nearest landmass: 1388.0628535427832
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:03:57 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80465.67959778229 LAT: 44910.69424396633
+	Distance from nearest landmass: 1404.5784134722767
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:03:59 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80496.74674382973 LAT: 44905.9503100554
+	Distance from nearest landmass: 1423.191735276484
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:04:01 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80528.14314261496 LAT: 44901.15693421372
+	Distance from nearest landmass: 1442.0029132000366
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:04:03 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80562.7292445582 LAT: 44891.67382520485
+	Distance from nearest landmass: 1459.860919486182
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:04:05 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80594.70456613423 LAT: 44889.17743147233
+	Distance from nearest landmass: 1481.196357621413
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:04:07 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80626.85490758657 LAT: 44884.274170675235
+	Distance from nearest landmass: 1501.418729966782
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:04:09 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80664.73594879058 LAT: 44885.94610556792
+	Distance from nearest landmass: 1530.7155324373562
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:04:11 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80697.74355545992 LAT: 44883.352707957834
+	Distance from nearest landmass: 1553.9077052846033
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:04:13 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80730.5847286685 LAT: 44876.93895282713
+	Distance from nearest landmass: 1574.8853999924402
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:04:15 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80763.3532240795 LAT: 44871.91743275775
+	Distance from nearest landmass: 1597.1034797589232
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:04:17 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80796.23034459187 LAT: 44866.879430439345
+	Distance from nearest landmass: 1619.7709390363675
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:04:19 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80833.701246585 LAT: 44859.22931428049
+	Distance from nearest landmass: 1644.8986258247191
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:04:21 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80866.75599092113 LAT: 44854.16921416519
+	Distance from nearest landmass: 1668.4720819658603
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:04:23 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80899.8824343681 LAT: 44849.0983950771
+	Distance from nearest landmass: 1692.4303046439925
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:04:25 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80933.0712667674 LAT: 44847.88104686126
+	Distance from nearest landmass: 1718.9445912110436
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:04:27 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80966.31284110957 LAT: 44842.7821210554
+	Distance from nearest landmass: 1743.5676104710408
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:04:29 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 80999.60161883847 LAT: 44837.67542764107
+	Distance from nearest landmass: 1768.5226570486832
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:04:31 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 81032.93155598812 LAT: 44832.56239366794
+	Distance from nearest landmass: 1793.7942277356326
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:04:33 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 81066.29732929482 LAT: 44827.44386086165
+	Distance from nearest landmass: 1819.367360144638
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:04:35 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 81097.34188584823 LAT: 44822.73533621366
+	Distance from nearest landmass: 1843.425743532933
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:04:37 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 81130.76599668807 LAT: 44817.60770454502
+	Distance from nearest landmass: 1869.5422142781865
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:04:39 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 81163.70337145674 LAT: 44810.69652726066
+	Distance from nearest landmass: 1894.595143326219
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:04:41 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 81197.17249049424 LAT: 44805.56716963679
+	Distance from nearest landmass: 1921.241242805358
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:04:43 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 81238.10240361597 LAT: 44798.441018521065
+	Distance from nearest landmass: 1953.725988905243
+
+EVENT: Possible imminent amphibious assault by a foreign Navy,
+due to their unauthorized sail within National waters.
+Details:
+	Date and time: Mon Oct 08 07:04:45 EEST 2018
+	Offending foreign military vessel:
+		MMSI: 200000004
+		Name: Barbaros
+	Position: LON: 81271.60544854874 LAT: 44793.30913589377
+	Distance from nearest landmass: 1980.8943922029634
+
