@@ -1,3 +1,0 @@
-turbulence(double:[0-1]),	centripetalForce(double:Newtons),	guiMode(enum:GuiMode),	trailLength(int:steps),	laneWidth(int:m),	broadcastInterval(int:milliseconds),	debugStatus(boolean),	immobileSpeedThreshold(double:m/s),	globalSpeedLimit(double:m/s)
-0,							4000000,							FIXED,					200,					300,				300,									true,					3, 									40
-0.22,						2650000,							FIXED,					50,						300,				2000,									false,					5, 									40

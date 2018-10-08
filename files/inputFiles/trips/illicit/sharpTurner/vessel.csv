@@ -1,2 +1,0 @@
-mmsi,		flag(enum:Flag),	name,			type(enum:VesselType),	length(double:m),	width(double:m),	lightshipWeight(double:kg),	maximumSpeed(double:m/s),	minimumSpeed(double:m/s),	acceleration(double:coeff),	deceleration(double:m/s^2)
-239737000,	GR,					Blue Star 2,	PASSENGER,				171.4,				26,					12687500,					17,							2,							0.7,						0.04

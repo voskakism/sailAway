@@ -1,2 +1,0 @@
-initialSpeed(double:m/s),	ballast(double:kg),	fuel(double:kg),	payload(double:kg)
-0,							3263000,			1071000,			1159000

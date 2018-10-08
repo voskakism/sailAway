@@ -1,2 +1,0 @@
-mmsi,		flag(enum:Flag),	name,			type(enum:VesselType),	length(double:m),	width(double:m),	lightshipWeight(double:kg),	maximumSpeed(double:m/s),	minimumSpeed(double:m/s),	acceleration(double:coeff),	deceleration(double:m/s^2)
-240348000,	GR,					Highspeed 7,	HIGHSPEED,				85,					21.2,				1880000,					25,							1.5,						0.85,						0.07

@@ -1,2 +1,0 @@
-mmsi,		flag(enum:Flag),	name,			type(enum:VesselType),	length(double:m),	width(double:m),	lightshipWeight(double:kg),	maximumSpeed(double:m/s),	minimumSpeed(double:m/s),	acceleration(double:coeff),	deceleration(double:m/s^2)
-351168000,	PA,					C Primacy,		TANKER,					336.2,				60,					30627000,					10,							5,							0.3,						0.03

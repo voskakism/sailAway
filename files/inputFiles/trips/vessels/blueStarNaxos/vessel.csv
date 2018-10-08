@@ -1,2 +1,0 @@
-mmsi,		flag(enum:Flag),	name,			type(enum:VesselType),	length(double:m),	width(double:m),	lightshipWeight(double:kg),	maximumSpeed(double:m/s),	minimumSpeed(double:m/s),	acceleration(double:coeff),	deceleration(double:m/s^2)
-239923000,	GR,					Blue Star Naxos,PASSENGER,				124,				19,					4688000,					13,							2.5,						0.75,						0.05
