@@ -1,8 +1,0 @@
-EVENT: Reported speed (through AIS broadcast) is above the legal limit of 40.0 m/s.
-Vessel:
-		MMSI: 239737000
-		Name: BlueStar2
-Reported speed: 100.0 m/s.
-
-
- A HIT !
