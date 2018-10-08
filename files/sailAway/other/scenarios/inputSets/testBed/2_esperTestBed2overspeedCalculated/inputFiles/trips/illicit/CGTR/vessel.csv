@@ -1,0 +1,2 @@
+mmsi(long),		flag(Flag),			name(String),			type(VesselType),		length(double:m),	width(double:m),	lightshipWeight(double:kg),	maximumSpeed(double:m/s),	minimumSpeed(double:m/s),	acceleration(double:m/s^2),	deceleration(double:m/s^2)
+271030139,		TR,					Umut,					LAWENFORCEMENT,			88,					12.2,				1275000,					12,							2,							0.9,						0.06

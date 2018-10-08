@@ -1,0 +1,2 @@
+mmsi(long),		flag(Flag),			name(String),			type(VesselType),		length(double:m),	width(double:m),	lightshipWeight(double:kg),	maximumSpeed(double:m/s),	minimumSpeed(double:m/s),	acceleration(double:m/s^2),	deceleration(double:m/s^2)
+237641000,		GR,					Knossos Palace,			PASSENGER,				214,				26.4,				14990000,					17,							2,							1,							0.045

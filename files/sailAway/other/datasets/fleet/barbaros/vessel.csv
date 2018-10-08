@@ -1,0 +1,2 @@
+mmsi(long),		flag(Flag),			name(String),			type(VesselType),		length(double:m),	width(double:m),	lightshipWeight(double:kg),	maximumSpeed(double:m/s),	minimumSpeed(double:m/s),	acceleration(double:m/s^2),	deceleration(double:m/s^2)
+200000004,		TR,					Barbaros,				MILITARY,				116.7,				14.8,				2535000,					17,							2,							1.1,						0.08

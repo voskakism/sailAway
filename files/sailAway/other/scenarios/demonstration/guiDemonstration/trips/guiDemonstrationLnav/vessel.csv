@@ -1,0 +1,2 @@
+mmsi(long),		flag(Flag),			name(String),			type(VesselType),		length(double:m),	width(double:m),	lightshipWeight(double:kg),	maximumSpeed(double:m/s),	minimumSpeed(double:m/s),	acceleration(double:m/s^2),	deceleration(double:m/s^2)
+241159000,		GR,					Blue Star Patmos,		PASSENGER,				145.9,				23.2,				5153571,					14,							2,							0.75,						0.05

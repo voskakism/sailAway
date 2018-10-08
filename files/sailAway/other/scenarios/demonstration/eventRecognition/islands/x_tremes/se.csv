@@ -1,0 +1,5 @@
+longitude(double:m),	latitude(double:m)
+900,0
+900,100
+1000,100
+1000,0

@@ -1,0 +1,5 @@
+longitude(double:m),	latitude(double:m),	heading(Azimuth),	speed(double:m/s)
+#take a sharp turn
+500,500,0,1
+500,600,0,100
+600,500,135,5

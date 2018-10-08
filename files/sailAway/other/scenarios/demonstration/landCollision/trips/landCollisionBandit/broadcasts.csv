@@ -1,0 +1,4 @@
+longitude(double:m),	latitude(double:m),	heading(Azimuth),	speed(double:m/s)
+#sail over C island
+1950,2000,180,5
+1950,1000,180,5

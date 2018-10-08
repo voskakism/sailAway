@@ -1,0 +1,5 @@
+longitude(double:m),	latitude(double:m),	heading(Azimuth),	speed(double:m/s)
+200,800,90,50
+400,800,90,50
+600,800,90,50
+800,800,90,50
