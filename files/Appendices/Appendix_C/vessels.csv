@@ -1,0 +1,15 @@
+mmsi(long),	flag(Flag),		name(String),		type(VesselType),	length(double:m),	width(double:m),	lightshipWeight(double:kg),	maximumSpeed(double:m/s),	minimumSpeed(double:m/s),	acceleration(double:m/s^2),	deceleration(double:m/s^2)							initialSpeed(double:m/s),	ballast(double:kg),	fuel(double:kg),	payload(double:kg)
+239737000,	GR,				Blue Star 2,		PASSENGER,			171.4,				26.2,				10368000,					14,							2,							0.7,						0,05												0,							2537500,			1268750,			1268750
+241087000,	GR,				Blue Star Delos,	PASSENGER,			145,				22,					5138714,					14,							2,							0.75,						0,05												0,							1383500,			482404,				901096
+239923000,	GR,				Blue Star Naxos,	PASSENGER,			124,				18.9,				4688000,					13,							2,							0.75,						0,05												0,							948000,				402000,				546000
+241159000,	GR,				Blue Star Patmos,	PASSENGER,			145.9,				23.2,				5153571,					14,							2,							0.75,						0,05												0,							1387500,			482404,				905096
+351168000,	PA,				C Primacy,			TANKER,				336.17,				60,					30627000,					9,							3.5,						0.35,						0,022												0,							101085000,			6868508,			208473492
+237611000,	GR,				Festos Palace,		PASSENGER,			214,				26.4,				16937000,					17,							2,							1,							0,045												0,							3263000,			1071000,			1159000
+240348000,	GR,				Santorini Palace,	HIGHSPEED,			85,					21.2,				938000,						22,							1,							1.5,						0,11												0,							164500,				152750,				152750
+237641000,	GR,				Knossos Palace,		PASSENGER,			214,				26.4,				14990000,					17,							2,							1,							0,045												0,							3263000,			1071000,			3106000
+367759000,	US,				Maersk Montana,		CARGO,				292.08,				32.35,				20788000,					13,							3,							0.44,						0,028												0,							24599600,			18449700,			18449700
+319068600,	KY,				Maryah,				PLEASURE,			128,				17,					4085714,					10,							2,							0.65,						0,039												0,							1100000,			550000,				550000
+240082000,	GR,				Gavdos,				LAWENFORCEMENT,		57.4,				9.4,				828750,						15,							1,							1.35,						0,09												0,							138125,				73084,				65041
+271030139,	TR,				Umut,				LAWENFORCEMENT,		88,					12.2,				1275000,					12,							2,							0.9,						0,06												0,							212500,				106250,				106250
+200000003,	GR,				Hydra,				MILITARY,			117,				14.8,				2550000,					16,							2,							1.1,						0,08												0,							425000,				212500,				212500
+200000004,	TR,				Barbaros,			MILITARY,			116.7,				14.8,				2535000,					17,							2,							1.1,						0,08												0,							422500,				211250,				211250
