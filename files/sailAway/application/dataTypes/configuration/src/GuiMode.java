@@ -1,0 +1,7 @@
+enum GuiMode
+{
+	NOGUI,
+	FIXED,
+	RESIZABLE_TO_TRAILS,
+	RESIZABLE_TO_ICONS
+}
